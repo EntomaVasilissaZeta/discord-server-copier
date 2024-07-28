@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "source_guild_id": "SOURCE_GUILD_ID_HERE",
+  "target_guild_id": "TARGET_GUILD_ID_HERE"
+}
