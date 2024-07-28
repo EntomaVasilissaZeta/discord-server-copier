@@ -13,7 +13,7 @@ Start by cloning the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/discord-server-copy-bot.git
+git clone https://github.com/EntomaVasilissaZeta/discord-server-copy-bot.git
 cd discord-server-copy-bot
 2. Install Dependencies
 Install the required Python packages using pip. This will install discord.py and aiohttp, which are necessary for running the bot:
