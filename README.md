@@ -22,9 +22,9 @@ Start the bot by running run.bat.
 
 Once the bot is running, you can use the following commands in any server where the bot is present:
 
-!copy: Initiates the process to copy the entire server structure (roles, categories, channels) from the source guild to the target guild.
+**!copy**: Initiates the process to copy the entire server structure (roles, categories, channels) from the source guild to the target guild.
 
-!mcopy <source_channel_id> <target_channel_id>: Copies all messages from the specified source channel to the target channel. Replace <source_channel_id> and <target_channel_id> with the actual channel IDs.
+**!mcopy** <source_channel_id> <target_channel_id>: Copies all messages from the specified source channel to the target channel. Replace <source_channel_id> and <target_channel_id> with the actual channel IDs.
 
 ## Releases
 For easy installation and setup, you can download the latest release from the Releases page.
